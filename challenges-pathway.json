@@ -1,5 +1,5 @@
 {
-  "title": "Kuberentes Bootcamp",
+  "title": "Kubernetes Bootcamp",
   "description": "Katacoda scenarios for learning Kubernetes bootcamp",
   "courses": [{
       "course_id": "Module 1: Create a Kubernetes cluster",
@@ -15,6 +15,26 @@
       "course_id": "Module 3 - Explore your app",
       "title": "Module 3 - Explore your app",
       "description": "Explore your app"
-    }    
+    },
+    {
+      "course_id": "Module 4 - Expose your app publicly",
+      "title": "Module 4 - Expose your app publicly",
+      "description": "Expose your app publicly"
+    },
+    {
+      "course_id": "Module 5 - Scale up your app",
+      "title": "Module 5 - Scale up your app",
+      "description": "Scale up your app"
+    },
+    {
+      "course_id": "Module 6 - Update your app",
+      "title": "Module 6 - Update your app",
+      "description": "Update your app"
+    },
+    {
+      "course_id": "Configuring a Kubernetes Microservice",
+      "title": "Configuring a Kubernetes Microservice",
+      "description": "Configure a Java Microservice using Kubernetes and MicroProfile"
+    } 
   ]
 }
