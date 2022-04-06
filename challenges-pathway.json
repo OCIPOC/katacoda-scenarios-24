@@ -1,15 +1,20 @@
 {
-  "title": "Challenges Examples",
-  "description": "Examples of how to create Challenges on Katacoda",
+  "title": "Kuberentes Bootcamp",
+  "description": "Katacoda scenarios for learning Kubernetes bootcamp",
   "courses": [{
-      "course_id": "node-challenge-1",
-      "title": "Challenge Example -  Node.js",
-      "description": "How to create a challenge on using Node.js"
+      "course_id": "Module 1: Create a Kubernetes cluster",
+      "title": "Module 1: Create a Kubernetes cluster",
+      "description": "Create a Kubernetes cluster"
     },
     {
-      "course_id": "kubernetes-challenge-1",
-      "title": "Challenge Example - Kubernetes",
-      "description": "How to create a challenge on using Kubernetes"
-    }
+      "course_id": "Module 2 - Deploy an app",
+      "title": "Module 2 - Deploy an app",
+      "description": "Deploy an app"
+    },
+    {
+      "course_id": "Module 3 - Explore your app",
+      "title": "Module 3 - Explore your app",
+      "description": "Explore your app"
+    }    
   ]
 }
