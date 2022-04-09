@@ -35,6 +35,41 @@
       "course_id": "9",
       "title": "Configuring a Kubernetes Microservice",
       "description": "Configure a Java Microservice using Kubernetes and MicroProfile"
-    } 
+    },
+    {
+      "course_id": "kubectl",
+      "title": "Getting started with kubectl",
+      "description": "Getting started with kubectl"
+    },
+    {
+      "course_id": "kubectl-advance",
+      "title": "Advanced kubectl",
+      "description": "Learning kubectl with advanced techniques"
+    },
+    {
+      "course_id": "kubectl-intermediate",
+      "title": "Intermediate kubectl",
+      "description": "Learning kubectl with intermediate techniques"
+    },
+    {
+      "course_id": "troubleshooting-clusters",
+      "title": "Troubleshooting Clusters",
+      "description": "Deep dive to troubleshooting, Debugging Kubernetes Clusters"
+    },
+    {
+      "course_id": "troubleshooting-pods",
+      "title": "Troubleshooting Pods",
+      "description": "Deep dive to troubleshooting, Debugging Kubernetes POD"
+    },
+    {
+      "course_id": "troubleshooting-services",
+      "title": "Troubleshooting Services",
+      "description": "Deep dive to troubleshooting, Debugging Kubernetes Services"
+    },
+    {
+      "course_id": "intro-to-containers-k8s",
+      "title": "Getting Started with Docker and Kubernetes",
+      "description": "Getting Started with Docker and Kubernete"
+    }
   ]
 }

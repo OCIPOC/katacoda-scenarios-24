@@ -1,0 +1,50 @@
+{
+  "title": "Terraform Bootcamp",
+  "description": "Katacoda scenarios for learning Terraform bootcamp",
+  "courses": [{
+      "course_id": "terraform-build-modules",
+      "title": "Terraform build modules",
+      "description": "Learning how to build terraform modules"
+    },
+    {
+      "course_id": "terraform-consul-provider",
+      "title": "terraform-consul-provider",
+      "description": "terraform-consul-provider"
+    },
+    {
+      "course_id": "terraform-datadog",
+      "title": "Terraform with Datadog",
+      "description": "Terraform with Datadog"
+    },
+    {
+      "course_id": "terraform-docker",
+      "title": "Terraform with Docker",
+      "description": "Terraform with Docker"
+    },
+    {
+      "course_id": "terraform-infrastructure-pipelines",
+      "title": "Terraform Infrastructure Pipeline",
+      "description": "Using Terraform to work with K8s to create Vault, Consul"
+    },
+    {
+      "course_id": "terraform-organize-configuration",
+      "title": "Organize Terraform configuration",
+      "description": "Best practices to organize Terraform configuration "
+    },
+    {
+      "course_id": "terraform-provider-intro",
+      "title": "Introduce to Terraform Provider",
+      "description": "Introduce to Terraform Provider"
+    },
+    {
+      "course_id": "terraform-use-modules",
+      "title": "Usigng Terraform modules ",
+      "description": "Using modules from the Terraform Registry to provision \nan example environment on AWS"
+    },
+    {
+      "course_id": "terraform-sentinel",
+      "title": "Terraform with Sentinel",
+      "description": "Using Terraform with Sentinel"
+    }
+  ]
+}
